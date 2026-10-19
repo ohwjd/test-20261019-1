@@ -4,3 +4,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-19T11:49:40.870Z,P0001,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}",3
 2026-10-19T11:59:37.610Z,P0001,S0001,297915765,release_validation,accepted,,campaign.abandon,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}",4
 2026-10-19T12:00:15.307Z,P0001,S0001,297915765,claim_validation,accepted,,campaign.claimValidation,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}",5
+2026-10-19T12:16:28.433Z,P0001,S0001,297915765,claim_validation,rejected,no_open_validation_slot,campaign.claimValidation,1,"{""task_id"":""P0001"",""subtask_id"":""S0001""}",6
